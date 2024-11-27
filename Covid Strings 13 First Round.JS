@@ -53,7 +53,7 @@ question14
 question15
 question16
 if selectedanswer==correct:
-return True
+return true
 else:
 return false
 if selectedanswer=incorrect
@@ -62,7 +62,7 @@ else:
 return true
 advancingteam=slice(current teams)
 declareWinner
-result=declarewinner(Team1 Score, Team2 Score)
+result=declarewinner(team1 score, team2 score)
 if turquoise score>=forty:
 console.log(turquoise waves win)
 else:
