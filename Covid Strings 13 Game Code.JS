@@ -45,25 +45,25 @@ if (mult == x*y)
 score+=ten
 else:
 score-=ten
-If (mult == x*y)
-[Concatenated]
-Score+=Twenty
-Else:
-Score-=Twenty
-Var LblScore= Document.GetElementbyId(LblScore)
-Lbl.Score.InnerHTML=Score
-Public ActionPerformed(Action Event E) 
-System.Out Print.In (Next Button Clicked)
-Frame.Add(Next Button);
-Frame Set Visible True
-Object {A:ONE, B:TWO, C:THREE, D:FOUR, E:FIVE, F:SIX, G:SEVEN, H:EIGHT}
-Keys Object Keys(Team)
-Entries Object Entries(Obj);
-Value Object= [Team Color]
-Covidstrings Team List13=[Blue,Violet,Turquoise,Green,Teal,Magenta,White,Black]
-Covid Strings Phrase List13=[No Accounting Of The Covid Pandemic Would Be Complete Without Books Critiquing What Happened
-Some Books Include Nightmare Scenario And Uncontrolled Spread
-Another Book That Goes Into Detail Is Lessons From The Covid War
+if (mult == x*y)
+[concatenated]
+score+=twenty
+else:
+score-=twenty
+lblscore=document.getelementbyid(lblscore)
+lbl.score.innerHTML=score
+public actionperformed(action event e) 
+system.out print.in (next button clicked)
+frame.add(next button);
+frame set visible true
+object {a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
+keys object keys(team)
+entries object entries(obj);
+value object= [team color]
+covidstrings team list13=[blue,violet,turquoise,green,teal,magenta,white,black]
+covid strings phrase list13=[no accounting of the covid pandemic would be complete without books critiquing what happened
+some books include nightmare scenario and uncontrolled spread
+another book that goes into detail is lessons from the covid war
 Crisis And Chaos Is An Example That Can Go More Broadly Into Healthcare As A Whole
 Even If You Didnt Have A Nonfiction Book Or Report You Might Have Had Something
 Fiction Though Is A Little Harder Right Now
