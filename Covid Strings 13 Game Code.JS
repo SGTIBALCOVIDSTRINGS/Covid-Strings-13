@@ -91,6 +91,11 @@ prompt
 log
 else:
 select from multiple choice
+if problem=multiple choice 
+select from multiple choice
+else:
+prompt 
+log
 myclass=new.myclass(concatenated)
 return category
 if category==math problem:
@@ -98,6 +103,11 @@ prompt
 log
 else:
 select from multiple choice
+if problem=multiple choice 
+select from multiple choice
+else:
+prompt 
+log
 import syntax 
 substring(start,end)
 userin.multiple choice
@@ -105,6 +115,10 @@ if selectedanswer==correct answer:
 return true
 else:
 return false
+if selectedanswer=not correct
+return false
+else 
+return true
 return filename 
 
 
