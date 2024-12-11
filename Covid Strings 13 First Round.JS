@@ -4,7 +4,7 @@ html
 head
 utf8
 viewportcontent=width=device-width,initial-scale=one>
-title covid strings13 first round
+title covid strings13 first round bracket
 filename=covid strings13 first round.js
 first round=(highest overall seed ,second highest seed third highest seed first middle seed, second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
 highest overall seed = 1 seed
