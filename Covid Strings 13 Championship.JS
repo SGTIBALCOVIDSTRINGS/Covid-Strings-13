@@ -4,7 +4,7 @@ html
 head
 utf8
 viewport content=width=device-width, initial-scale=one>
-title covidstrings 13 Championship bracket
+title covidstrings 13 championship bracket
 filename=covid strings13 championship.js
 championship game=(highest and lowest remaining seeds ) 
 team low seed = lowest remaining seed
