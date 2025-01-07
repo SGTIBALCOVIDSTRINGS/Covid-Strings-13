@@ -2,7 +2,7 @@ doc.type html
 script
 filename=covid strings13 background.js
 java.awt graphics 
-this.Img=document.createelement(covid)
+this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document getelementbyid(header)
 src.appendchild(this.img)
@@ -15,30 +15,30 @@ private final j button option button=
 new j button (change color)
 public fun with graphics(){
 jpanel color panel=new j panel();
-this add (panel,center )
+add (panel,center )
 jpanel button panel=
 new j panel (flowlayout.center)
 buttonpanel.add(randombutton);
-random.button add actionlistener(new action listener(){
+random.button add actionlistener(new action listener)
 override 
-public actionperformed(actionevent e){
+public actionperformed(actionevent e)
 random r= newrandom();
 colorpanel.setbackground(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))
 buttonpanel.add(optionbutton);
-optionbutton.add actionlistener(new action listener(){
+optionbutton.add actionlistener(new action listener)
 override 
 public actionperformed(actionevent e)
 color m=jcolorchooser.showdialog(funwithgraphics.this)
 if(multi!=null)
 color panel set.background(multi)
 this.add(buttonpanel,borderlayout.south)
-public static void main(string [] args)
+public static main(string [] args)
 jfame f = new covid strings13()
 f.set title(covid strings13)
 f.set default closeoperation(jframe.exit_on_close);
 f.setsize
 f.set visible(true);
-labelid=lblScore>zero</label>
+labelid=lblscore>zero</label>
 score=zero
 if (mult == x*y)
 [non-concatenated]
@@ -51,7 +51,7 @@ score+=twenty
 else:
 score-=twenty
 lblscore=document.getelementbyid(lblscore)
-lbl.score.innerHTML=score
+lbl.score.inner html=score
 public actionperformed(action event e) 
 system.out print.in (next button clicked)
 frame.add(next button);
