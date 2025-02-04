@@ -26,10 +26,10 @@ third lowest seed= 6 seed
 second lowest seed = 7 seed
 lowest overall seed = 8 seed
 teams=[blue,violet,turquoise,green,teal,magenta,white,black]
-create matchup(magenta versus turquoise)
-create matchup(white versus violet)
-create matchup(black versus blue)
-create matchup(teal versus green)
+matchup1=(magenta versus turquoise)
+matchup2=(white versus violet)
+matchup3=(black versus blue)
+matchup4=(teal versus green)
 bracket =getelementbyid(bracket);
 document.createelement 
 matchupdiv.classname=(matchup)
@@ -71,21 +71,23 @@ return false
 else:
 return true
 advancingteam=slice(current teams)
-declareWinner
-result=declarewinner(team1 score, team2 score)
+result=declarewinner(matchup1)
 if turquoise score>=forty:
 console.log(turquoise waves win)
 else:
 console.log(magenta magnetizers win)
+result=declarewinner(matchup2)
 if violet score>=forty:
 console.log(violet relivers win)
 else:
 console.log(white transit angels win)
-if blue score>forty:
+result=declarewinner(matchup3)
+if blue score>=forty:
 console.log(blue curve crushers win)
 else:
 console.log(black night riders win)
-if green score>forty:
+result=declarewinner(matchup4)
+if green score>=forty:
 console.log(green peacemakers win)
 else:
 console.log(teal terminators win)
