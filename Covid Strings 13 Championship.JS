@@ -3,10 +3,20 @@ script
 html
 head
 utf8
-viewport content=width=device-width, initial-scale=one>
+viewport content=width=device-width, initial-scale=one
 title covidstrings 13 championship bracket
+div id bracket class bracket div
+script src bracket.js
+link rel= stylesheet href=css
+head
+body
+bracket-container{}
+matchup
+solid zero;
+padding 
+text align center 
 filename=covid strings13 championship.js
-championship game=(highest and lowest remaining seeds ) 
+championship game=(highest and lowest remaining seeds) 
 team low seed = lowest remaining seed
 team high seed= highest remaining seed
 createround covid strings13 championship round 
