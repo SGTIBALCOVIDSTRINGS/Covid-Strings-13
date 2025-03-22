@@ -189,7 +189,7 @@ s.prototype.initialize =function()
 console.log(this.foobar.name)
 asset=this app.assets.find()
 template asset resource 
-entity template instantite
+entity template instantiate
 entity script foobar=this entity
 entity reparnet (this.entity)
 t=pc.create script(t);
