@@ -223,3 +223,4 @@ w=pc.create script(w);
 w.attributes.add(foobar, {type:entity});
 w.prototype.initialize =function() 
 console.log(this.foobar.name)
+return filename
