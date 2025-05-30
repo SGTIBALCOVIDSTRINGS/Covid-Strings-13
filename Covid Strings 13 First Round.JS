@@ -140,15 +140,33 @@ result=declarewinner(matchup2)
 if violet score>=forty:
 console.log(violet relivers win)
 else:
+remain
+if white score>=forty:
 console.log(white transit angels win)
+else:
+remain
+<subheading.html>
+result for matchup3
+the code for how to Determine The End Result Of Matchup3 Of Covid Strings 
 result=declarewinner(matchup3)
 if blue score>=forty:
 console.log(blue curve crushers win)
 else:
+remain
+if black score>=forty:
 console.log(black night riders win)
+else:
+remain
+<subheading.html>
+result for matchup4 
+the code for how to determine the end result of matchup4 of covid strings 
 result=declarewinner(matchup4)
 if green score>=forty:
 console.log(green peacemakers win)
 else:
+remain
+if teal score>=forty:
 console.log(teal terminators win)
+else:
+remain
 return filename
