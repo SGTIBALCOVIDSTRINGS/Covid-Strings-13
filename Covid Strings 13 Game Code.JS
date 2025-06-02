@@ -199,7 +199,7 @@ for string in covid strings sentence List13
 select characters
 edit diffuse property
 desired color=green
-for multiple choice Questions In Covid Strings Sentence List
+for multiple choice questions in covid strings sentence list
 substring(start,end)
 userin.multiple choice
 if selectedanswer==correct answer:
@@ -209,6 +209,10 @@ return false
 <header.html>
 game code part2
 the rest of the game code excluding answer and winner checker
+java util.scanner
+java.util
+questions=total# of questions from covid strings13 [first-championship round]
+collections.shuffle(arrays.aslist(questions)
 userin.select team
 import meta.
 class myclass
