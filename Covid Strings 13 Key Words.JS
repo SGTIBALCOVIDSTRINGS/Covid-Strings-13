@@ -20,8 +20,17 @@ filename=covid strings 13 key words.js
 keywords
 key search words for covid strings13
 covid strings 13 key word list=[books,got covid too,trump spanish flu,no information provided nightmare scenario and,trump 20 years younger,covid war,chaos healthcare,book or report,christmas carol,a little harder,drugs played a part,invoked if necessary,harder time recovering,trump not even honest,crisis and chaos rank,what would the take away be?,plenty of covid books will talk about covid experience,raising taxes]
+string manager non-concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
 string=””
-for string in covid strings search word list
+string manager concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings key word list
 select characters
 edit diffuse property
 desired color=green
